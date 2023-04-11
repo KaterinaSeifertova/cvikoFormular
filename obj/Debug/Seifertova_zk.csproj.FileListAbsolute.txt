@@ -1,0 +1,11 @@
+C:\Users\lukas\source\repos\Seifertova_zk\bin\Debug\Seifertova_zk.exe.config
+C:\Users\lukas\source\repos\Seifertova_zk\bin\Debug\Seifertova_zk.exe
+C:\Users\lukas\source\repos\Seifertova_zk\bin\Debug\Seifertova_zk.pdb
+C:\Users\lukas\source\repos\Seifertova_zk\obj\Debug\Seifertova_zk.csproj.AssemblyReference.cache
+C:\Users\lukas\source\repos\Seifertova_zk\obj\Debug\Seifertova_zk.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukas\source\repos\Seifertova_zk\obj\Debug\Seifertova_zk.Form1.resources
+C:\Users\lukas\source\repos\Seifertova_zk\obj\Debug\Seifertova_zk.Properties.Resources.resources
+C:\Users\lukas\source\repos\Seifertova_zk\obj\Debug\Seifertova_zk.csproj.GenerateResource.cache
+C:\Users\lukas\source\repos\Seifertova_zk\obj\Debug\Seifertova_zk.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\Seifertova_zk\obj\Debug\Seifertova_zk.exe
+C:\Users\lukas\source\repos\Seifertova_zk\obj\Debug\Seifertova_zk.pdb
